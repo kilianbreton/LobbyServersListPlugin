@@ -13,7 +13,7 @@ Json example :
     "Login" : "ServerLogin",
     "JoinPassword" : "Join password",
     "SpecPassword" : "Spectate password",
-    "TitlePack" : "SMStormElite@nadeolabs
+    "TitlePack" : "SMStormElite@nadeolabs"
   },
   {
     "Name" : "Combo",
