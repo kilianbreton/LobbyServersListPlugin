@@ -11,8 +11,20 @@ Json example :
   {
     "Name" : "ServerName",
     "Login" : "ServerLogin",
-    "JoinPass" : "Join password",
-    "SpecPass" : "Spectate password"
+    "JoinPassword" : "Join password",
+    "SpecPassword" : "Spectate password",
+    "TitlePack" : "SMStormElite@nadeolabs
+  },
+  {
+    "Name" : "Combo",
+    "login" : "ankou_combo",
+    "TitlePack" : "SMStormCombo@nadeolabs"
   }
 ]
+
+Optional fields :
+- JoinPassword
+- SpecPassword
+- TitlePack
+
 ```
